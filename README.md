@@ -1,6 +1,6 @@
 # Ricky and Morty Wiki
 
-**Creating a [wiki]() about Rick and Morty by following a tutorial to better understanding some React's basics and playing with an API** 
+**Creating a [wiki](https://wiki-rickandmorty.herokuapp.com/) about Rick and Morty by following a tutorial to better understanding some React's basics and playing with an API** 
 
 ![wiki](./assets/wiki.png)
 
