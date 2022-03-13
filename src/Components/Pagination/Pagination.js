@@ -58,9 +58,9 @@ const Pagination = ({info, pageNumber, setPageNumber}) => {
         className="pagination justify-content-center my-4 gap-4"
         forcePage={pageNumber === 1 ? 0 : pageNumber - 1}
         previousLabel="Prev"
-        previousClassName="btn btn-primary fs-5 prev"
+        previousClassName="btn btn-light fs-5 prev"
         nextLabel="Next "
-        nextClassName="btn btn-primary fs-5 next"
+        nextClassName="btn btn-light fs-5 next"
         activeClassName="active"
         marginPagesDisplayed={width < 576 ? 1 : 2}
         pageRangeDisplayed={width < 576 ? 1 : 2}
