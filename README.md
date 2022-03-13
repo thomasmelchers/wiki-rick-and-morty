@@ -13,4 +13,5 @@
 
 ## Sources
 
+The [API](https://afuh.dev/the-rick-and-morty-api) I have been using.
 The [Tutorial](https://www.youtube.com/watch?v=35QCQnohLg8&t=429s) I followed to create this wiki. 
